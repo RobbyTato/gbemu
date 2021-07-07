@@ -1,4 +1,4 @@
-MEMORY_SIZE = 0xFFFF
+MEMORY_SIZE = 0x10000
 
 class Memory:
     def __init__(self, bootstrap = None, rom = None):
